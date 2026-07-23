@@ -1,5 +1,5 @@
 Markdown
-# PAV Top Time & Admin System
+#Time & Admin System
 
 FiveM sunucuları için geliştirilmiş; en iyi tur/süre derecelerini kaydedip listeleyen ve aynı zamanda yetkili/admin işlevleri sunan bir scripttir.
 
@@ -19,12 +19,12 @@ FiveM sunucuları için geliştirilmiş; en iyi tur/süre derecelerini kaydedip 
 1. İndirdiğiniz `pav_toptime` klasörünü FiveM sunucunuzun `resources` dizinine atın.
 2. `server.cfg` dosyanızı açın ve aşağıdaki satırı ekleyin:
    ```cfg
-   ensure pav_toptime
-Sunucunuzu başlatın veya oyun içinden refresh ardından ensure pav_toptime komutunu çalıştırın.
+   ensure toptime
+Sunucunuzu başlatın veya oyun içinden refresh ardından ensure toptime komutunu çalıştırın.
 
 📂 Dosya Yapısı
 Plaintext
-pav_toptime/
+toptime/
 │
 ├── assets/
 │   ├── BebasNeueBold.otf   # Arayüz başlık fontu
