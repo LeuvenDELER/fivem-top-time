@@ -1,0 +1,12 @@
+<meta>
+    <info author="pavlov" type="script" name="Playtime Scoreboard" version="1.0" />
+
+    <script src="server.lua" type="server" />
+    <script src="client.lua" type="client" />
+
+    <file src="assets/BebasNeueBold.otf" />
+    <file src="assets/Roboto-Bold.ttf" />
+    <file src="assets/Roboto-Regular.ttf" />
+    <file src="assets/circle.png" />
+    <file src="assets/vignette.png" />
+</meta>
